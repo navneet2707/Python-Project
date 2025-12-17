@@ -17,9 +17,6 @@ All projects are console-based and created using core Python concepts such as lo
 ## How to Run Projects
 1. Clone the repository
 2. Navigate to the project folder
-3. Run the Python file using:
-
-   python filename.py
 
 ## Author
 Navneet Rathore 
