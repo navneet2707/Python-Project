@@ -1,5 +1,1 @@
-vishesh ,200,na
-tushar,500,na
-zaid ,400,na
-   tushu  ,3,na
-  neet,99,22
+
